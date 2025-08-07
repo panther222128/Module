@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import NetworkService
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 

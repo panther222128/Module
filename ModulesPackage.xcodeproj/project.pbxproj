@@ -87,7 +87,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				A933A53F2E44B4B100FA1150 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				A937640F2E44A3DB00DDF639 /* ModulesPackage */,
@@ -153,13 +152,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		A933A53F2E44B4B100FA1150 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			productRef = A933A53E2E44B4B100FA1150 /* NetworkService */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		A93764212E44A3E800DDF639 /* Debug */ = {
@@ -372,10 +364,6 @@
 
 /* Begin XCSwiftPackageProductDependency section */
 		A933A5092E44A9EB00FA1150 /* NetworkService */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = NetworkService;
-		};
-		A933A53E2E44B4B100FA1150 /* NetworkService */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = NetworkService;
 		};
